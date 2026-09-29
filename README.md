@@ -52,7 +52,7 @@ A Java client-server application that allows users to add and retrieve student r
 
 A transport reservation application focused on managing ride bookings and related information.
 
-🔗 [View Project](https://github.com/khashaneRonewa)
+🔗 [View Project](https://github.com/khashaneRonewa/reserve-a-ride)
 
 ### Personal Developer Portfolio
 
